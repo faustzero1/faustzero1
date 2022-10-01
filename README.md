@@ -1,17 +1,13 @@
-<p align="center">
 <img alt="faustzero1 Github Stats" src="https://github-readme-stats.vercel.app/api?username=faustzero1&show_icons=true&include_all_commits=true&hide_border=true&theme=midnight-purple">
-</p>
-  <p align="center">
-    <pre>
-                                 _____               _   _____              _ 
-                                |  ___|_ _ _   _ ___| |_|__  /___ _ __ ___ / |
-                                | |_ / _` | | | / __| __| / // _ \ '__/ _ \| |
-                                |  _| (_| | |_| \__ \ |_ / /|  __/ | | (_) | |
-                                |_|  \__,_|\__,_|___/\__/____\___|_|  \___/|_|
-                                  **Your Friendly Neighborhood Hackerman** 
-                                 Focus | We're All All Gonna Make It Brah! 🔱  
+<pre>
+ _____               _   _____              _ 
+|  ___|_ _ _   _ ___| |_|__  /___ _ __ ___ / |
+| |_ / _` | | | / __| __| / // _ \ '__/ _ \| |
+|  _| (_| | |_| \__ \ |_ / /|  __/ | | (_) | |
+|_|  \__,_|\__,_|___/\__/____\___|_|  \___/|_|
+           **#RealLife Gamer** 
+ Focus | We're All All Gonna Make It Brah! 🔱  
     </pre>
-  </p>
 
 <br>
 
@@ -19,7 +15,7 @@
 <summary> &#9655;</summary>
 
 <h3>Site</h3><br>
-<p align="center">
+<p">
   <samp>
     [<a href="https://faustzero1.codeberg.page">Personal website</a>]
     [<a href="https://mstdn.starnix.network/@drfaustz">Mastodon</a>]
@@ -32,7 +28,7 @@
     </samp>
 </p>
 <h3>Git Repository</h3><br>
-<p align="center">
+<p>
   <samp>
     [<a href="https://codeberg.org/faustzero1">Codeberg</a>]
       <h4>Bridge Account</h4>
@@ -44,7 +40,7 @@
 </p>
 <hr>
 <h3>Contact</h3><br>
-<p align="center">
+<p>
   <samp>
     [<a href="https://t.me/faustzero1">Telegram</a>]
     [<a href="https://getsession.org">Session</a>]
