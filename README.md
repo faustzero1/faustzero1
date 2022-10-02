@@ -14,7 +14,7 @@
 | |_ / _` | | | / __| __| / // _ \ '__/ _ \| |
 |  _| (_| | |_| \__ \ |_ / /|  __/ | | (_) | |
 |_|  \__,_|\__,_|___/\__/____\___|_|  \___/|_|
-             #RealLife Gamer 
+             #RealLifeGamer 
  Focus | We're All All Gonna Make It Brah! 🔱  
     </pre>
 
