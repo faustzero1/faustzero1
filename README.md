@@ -14,8 +14,8 @@
 | |_ / _` | | | / __| __| / // _ \ '__/ _ \| |
 |  _| (_| | |_| \__ \ |_ / /|  __/ | | (_) | |
 |_|  \__,_|\__,_|___/\__/____\___|_|  \___/|_|
-             #RealLifeGamer 
- Focus | We're All All Gonna Make It Brah! 🔱  
+   **Everyone Has Little Bit Zyzz in Them**
+   Focus | We're All Gonna Make It Brah! 🔱  
     </pre>
 
 <br>
@@ -26,7 +26,7 @@
 <h3>Site</h3><br>
 <p">
   <samp>
-    [<a href="https://faustzero1.codeberg.page">Personal website</a>]
+    [<a href="https://fz1.space">Personal website</a>]
     [<a href="https://mstdn.starnix.network/@drfaustz">Mastodon</a>]
     [<a href="https://videos.danksquad.org/a/faustzero1">Peertube</a>]
   </samp>
@@ -40,6 +40,7 @@
 <p>
   <samp>
     [<a href="https://codeberg.org/faustzero1">Codeberg</a>]
+    [<a href="https://sr.ht/~faustzero1">Sourcehut</a>]
       <h4>Bridge Account</h4>
       <samp>
         [<a href="https://github.com/faustzero1">Github (Bridge of my Codeberg) | Use uBlock Origin for your OPSEC sake</a>]  <br>
