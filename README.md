@@ -1,10 +1,12 @@
-<!-- Github Stats -->
+<!-- Github Stats 
 
 <img alt="faustzero1 Github Stats" src="https://github-readme-stats.vercel.app/api?username=faustzero1&show_icons=true&include_all_commits=true&hide_border=true&theme=midnight-purple">
+-->
 
-<!-- Top Language -->
+<!-- Top Language 
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faustzero1&hide_border=true&layout=compact&theme=midnight-purple)
+-->
 
 <!-- Main Content -->
 
